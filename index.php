@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8"
@@ -11,29 +11,19 @@
 
 <body>
     <header>
-        <h1>Recycling</h1>
+        <h1>Making the world a better place</h1>
         <h2>Facts and photos</h2>
 </header>
 
 <nav>
     <a href="index.php">Home</a>
-    <a href="detail.php">Recycle</a>
+    <a href="detail.php">Detail</a>
     <a href="about.php">About Us</a>
 </nav>
 
 <main>
 
-<h1>Topic of the Day</h1>
-
-<section>
-    <h2>This cant be</h2>
-    <p>appropiate texting</p>
-</section>
-
-<section>
-    <h2>Texing that fits</h2>
-    <p>dont be upset</p>
-</section>
+</main>
 <h1>Making the world a better place</h1>
 <section>
     <h2>Creating a brighter future</h2>
@@ -45,8 +35,8 @@
 
     <section>
         <h2>How to improve</h2>
-        <figure style="float: left; text-align: center; width: 20%;">
-            <img alt="Recycling" src="images/Recycling.jpeg" style="max-width: 100%;">
+        <figure >
+            <img alt="Recycling" src="images/recycling.png">
             <figcation><cite><a href="https://www.freepik.com/free-vector/people-recycling-together_7884850.htm" target="_blank">Recycling Together</a></cite></figurecaption>
 </figure>
 <ol>
@@ -56,7 +46,7 @@
     <li>Conserve Water</li>
     <li>Plant Trees</li>
     <li>Protect Wildlife</li>
-    <li>Source: <cite>Shamir Bogues</cite></li>
+    Source: <cite>Shamir Bogues</cite></li>
 </ol>
 </section>
 <section>
