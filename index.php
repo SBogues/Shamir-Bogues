@@ -1,16 +1,39 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-    <meta> 
+    <meta charset="UTF-8"
     <title>Making the world a better place</title>
     <meta name="author" content="Shamir Bogues">
     <meta name="description" content="Making the world a better place refers to deeds and programs meant to uplift the standard of living for all living things and guarantee the planet's sustainability. This involves addressing issues like pollution, poverty, inequality, and climate change as well as social and economic issues. It includes advancing human rights, healthcare, education, and justice as well as supporting sustainable development, peace, and justice. For the benefit of the current and next generations, we may foster a more just, healthy, and successful society by promoting cooperation, creativity, and empathy."
+
+    <link rel="stylesheet" href="css/custom?version=<?php print time(); ?>" type="text/css">
 </head>
 
 <body>
-    <main>
-        
-</main>
+    <header>
+        <h1>Recycling</h1>
+        <h2>Facts and photos</h2>
+</header>
+
+<nav>
+    <a href="index.php">Home</a>
+    <a href="detail.php">Recycle</a>
+    <a href="about.php">About Us</a>
+</nav>
+
+<main>
+
+<h1>Topic of the Day</h1>
+
+<section>
+    <h2>This cant be</h2>
+    <p>appropiate texting</p>
+</section>
+
+<section>
+    <h2>Texing that fits</h2>
+    <p>dont be upset</p>
+</section>
 <h1>Making the world a better place</h1>
 <section>
     <h2>Creating a brighter future</h2>
@@ -77,5 +100,9 @@
 </table>
 </section>
 </main>
+
+<footer>
+    <p><a href="../sitemap.php">Site map (Main index)</a></p>
+</footer>
 </body>
 </html>
