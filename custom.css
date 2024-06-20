@@ -1,0 +1,14 @@
+body{
+    width: 90%;
+    margin: auto;
+}
+
+figure{
+    float: left;
+    text-align: center; 
+    width: 20%;
+}
+
+img{
+    max-width: 100%;
+}
